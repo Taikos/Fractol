@@ -18,3 +18,15 @@ A program which is displaying small fractals (Mandelbrot, Julia, Mandelbar...)
 - Zoom: Use the mouse wheel or click<br/>
 - Moves: Use the arrows<br/>
 - Change fractal: Press q, w or e<br/>
+<br/>
+<br/>
+<b>1-Mandelbrot:</b>
+![Screenshot](Mandelbrot_Screen.jpg)
+<br/>
+<br/>
+<b>2-Julia:</b>
+![Screenshot](Julia_Screen.jpg)
+<br/>
+<br/>
+<b>3-Mandelbar:</b>
+![Screenshot](Mandelbar_Screen.jpg)
