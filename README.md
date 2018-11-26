@@ -20,13 +20,16 @@ A program which is displaying small fractals (Mandelbrot, Julia, Mandelbar...)
 - Change fractal: Press q, w or e<br/>
 <br/>
 <br/>
-<b>1-Mandelbrot:</b>
+<b>1-Mandelbrot model:</b>
+<br/>
 ![Screenshot](Mandelbrot_Screen.jpg)
 <br/>
 <br/>
-<b>2-Julia:</b>
+<b>2-Julia model:</b>
+<br/>
 ![Screenshot](Julia_Screen.jpg)
 <br/>
 <br/>
-<b>3-Mandelbar:</b>
+<b>3-Mandelbar model:</b>
+<br/>
 ![Screenshot](Mandelbar_Screen.jpg)
