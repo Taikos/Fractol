@@ -1,8 +1,8 @@
 # Fractol
 
 
-<i>Graphic programming project</i>
-A program which is displaying small fractals (Mandelbrot, Julia, Mandelbar...)
+<i>Graphic programming project</i><br/>
+A program which is displaying small fractals (Mandelbrot, Julia, Mandelbar...).
 <br/>
 <br/>
 <b>USAGE:</b> <i>./fractol [1, 2 or 3]</i>
