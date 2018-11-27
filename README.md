@@ -21,12 +21,12 @@ A program which is displaying small fractals (Mandelbrot, Julia, Mandelbar...).
 <br/>
 <br/>
 <b>Mandelbrot model:</b>
-![Mandelbrot_Screen.jpg](/Taikos/Fractol/blob/master/Mandelbrot_Screen.jpg?raw=true)
+![Mandelbrot_Screen.jpg](/Taikos/Fractol/master/Mandelbrot_Screen.jpg?raw=true)
 <br/>
 <br/>
 <b>2-Julia model:</b>
-![Julia_Screen.jpg](/Taikos/Fractol/blob/master/Julia_Screen.jpg?raw=true)
+![Julia_Screen.jpg](/Taikos/Fractol/master/Julia_Screen.jpg?raw=true)
 <br/>
 <br/>
 <b>3-Mandelbar model:</b>
-![Mandelbar_Screen.jpg](/Taikos/Fractol/blob/master/Mandelbar_Screen.jpg?raw=true)
+![Mandelbar_Screen.jpg](/Taikos/Fractol/master/Mandelbar_Screen.jpg?raw=true)
