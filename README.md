@@ -8,15 +8,15 @@ A program which is displaying small fractals (Mandelbrot, Julia, Mandelbar...).
 <b>USAGE:</b> <i>./fractol [1, 2 or 3]</i>
 <br/>
 <br/>
-## Mandelbrot model:
+<b>Mandelbrot model:</b>
 <br/>
 ![Mandelbrot_Screen.jpg](Mandelbrot_Screen.jpg)
 <br/>
-## Julia model:
+<b>Julia model:</b>
 <br/>
 ![Julia_Screen.jpg](Julia_Screen.jpg)
 <br/>
-## Mandelbar model:
+<b>Mandelbar model:</b>
 <br/>
 ![Mandelbar_Screen.jpg](Mandelbar_Screen.jpg)
 <br/>
