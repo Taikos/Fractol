@@ -8,7 +8,20 @@ A program which is displaying small fractals (Mandelbrot, Julia, Mandelbar...).
 <b>USAGE:</b> <i>./fractol [1, 2 or 3]</i>
 <br/>
 <br/>
-<b>HOW TO:</b>
+## Mandelbrot model:
+<br/>
+![Mandelbrot_Screen.jpg](Mandelbrot_Screen.jpg)
+<br/>
+## Julia model:
+<br/>
+![Julia_Screen.jpg](Julia_Screen.jpg)
+<br/>
+## Mandelbar model:
+<br/>
+![Mandelbar_Screen.jpg](Mandelbar_Screen.jpg)
+<br/>
+<br/>
+## HOW TO:
 <br/>
 - Fractol variation: move the mouse<br/>
 - Off = Space bar<br/>
@@ -18,15 +31,3 @@ A program which is displaying small fractals (Mandelbrot, Julia, Mandelbar...).
 - Zoom: Use the mouse wheel or click<br/>
 - Moves: Use the arrows<br/>
 - Change fractal: Press q, w or e<br/>
-<br/>
-<br/>
-<b>Mandelbrot model:</b>
-![Mandelbrot_Screen.jpg](/Taikos/Fractol/master/Mandelbrot_Screen.jpg?raw=true)
-<br/>
-<br/>
-<b>2-Julia model:</b>
-![Julia_Screen.jpg](/Taikos/Fractol/master/Julia_Screen.jpg?raw=true)
-<br/>
-<br/>
-<b>3-Mandelbar model:</b>
-![Mandelbar_Screen.jpg](/Taikos/Fractol/master/Mandelbar_Screen.jpg?raw=true)
